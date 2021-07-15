@@ -1,0 +1,7 @@
+.idea
+bower_components
+*~
+.*~
+tmp
+node_modules
+
